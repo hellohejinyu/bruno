@@ -54,8 +54,6 @@ class BrnStateTag extends StatelessWidget {
         return Color(0xFF00AE66);
       case TagState.waiting:
         return Color(0xFFFAAD14);
-      default:
-        return Color(0xFFFAAD14);
     }
   }
 }
